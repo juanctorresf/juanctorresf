@@ -1,7 +1,6 @@
 # Hi, I'm Juan C.! 👋
-**`Music Producer | Developer`**
+**`Frontend Developer`**
 
-<img width="500px" alt="Logo profile" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"/>
 
 ## 🚀 About Me (Español / English)
 ¡Hola a todos! Soy un ser humano que se ha dividido en dos: un productor musical y un frontend developer. ¿Cómo lo hice? ¡Eso es un secreto! Pero lo que sí puedo decirles es que amo la música tanto como la programación.
@@ -29,6 +28,7 @@ When I'm not creating melodies that make your feet move on their own, I'm writin
 <img align="left" width="80px" style="margin-left:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 <img align="left" width="80px" style="margin-left:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" />
 <img align="left" width="80px" style="margin-left:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" width="80px" style="margin-left:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
           
           
           
