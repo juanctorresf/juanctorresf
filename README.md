@@ -1,4 +1,4 @@
-# Hi, I'm Juan C.! 👋
+# Hi, I'm JuanCa.! 👋
 **`Frontend Developer`**
 
 
@@ -16,9 +16,6 @@ When I'm not creating melodies that make your feet move on their own, I'm writin
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-torres-devv/)
 
-**¿Quieres escuchar mis pistas? / Do you want to listen to my beats?**
-
-[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC43XeYVeNtrbU0ZulGiPIyA?label=Youtube%20Views&logo=youtube&style=for-the-badge)](https://www.youtube.com/channel/UC43XeYVeNtrbU0ZulGiPIyA)
 
 ## Lenguages and Tools
 
