@@ -1,4 +1,4 @@
-# Hi, I'm JuanCa.! 👋
+# Hi, I'm Juan Torres! 👋
 **`Frontend Developer`**
 
 
